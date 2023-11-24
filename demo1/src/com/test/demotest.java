@@ -8,5 +8,6 @@ public class demotest {
         System.out.println("world");
 
         System.out.println("out");
+        System.out.println("out");
     }
 }
